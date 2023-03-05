@@ -1,3 +1,15 @@
+body {
+  background-image: url('https://images.pexels.com/photos/1289845/pexels-photo-1289845.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.whiteBG {
+  background-color: #fff;
+}
+
+
 footer-basic {
     padding:40px 0;
     background-color:#ffffff;
@@ -78,15 +90,6 @@ footer-basic {
 }
 
  
-/* Fade in Image */
-
-.easeload{
-    opacity: 0;
-    -webkit-transition: all 3s ease; 
-    -moz-transition: all 3s ease; 
-    -ms-transition: all 3s ease; 
-    -o-transition: all 3s ease; 
-}
 
 
 

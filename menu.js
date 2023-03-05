@@ -1,7 +1,7 @@
 var imageThumbs = document.getElementById("image-thumbs");
 var currentImage = document.getElementById("current-image");
 
-for (var i = 1; i <= 9; i++) {
+for (var i = 1; i <= 8; i++) {
   var thumb = document.createElement("img");
   thumb.src = "menu/menu" + i + ".png";
   thumb.alt = "menu page " + i;
